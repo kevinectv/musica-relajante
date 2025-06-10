@@ -1,14 +1,18 @@
-# 🎵 Musica Relajante App
 
-Este proyecto es una app de música simple en Next.js que puede funcionar embebida en Discord sin bloqueos de audio.
+# TheEverRadio Assets
 
-## 🚀 Instrucciones
+Este repositorio contiene los archivos de audio y carátulas para la aplicación de música en Discord.
 
-1. Sube tus archivos `.mp3` y `.jpg` a tu repositorio en GitHub.
-2. Usa URLs de jsDelivr así:
-   `https://cdn.jsdelivr.net/gh/USUARIO/repositorio/audio/archivo.mp3`
-3. Modifica el archivo `utils/tracks.ts` para apuntar a esas URLs.
-4. Despliega en [Vercel](https://vercel.com)
-5. Abre la app en Discord embebida y da Play.
+## Cómo usarlos con jsDelivr
 
-¡Y suena sabroso! 🎶
+Una vez subas este repo a GitHub (público), podrás acceder a los archivos así:
+
+- Audio:
+  https://cdn.jsdelivr.net/gh/kevinectv/theeverradio-assets/audio/lofi-song.mp3
+
+- Carátula:
+  https://cdn.jsdelivr.net/gh/kevinectv/theeverradio-assets/covers/lofi-song.jpg
+
+Reemplaza los nombres por los que subas.
+
+¡Eso es todo!
